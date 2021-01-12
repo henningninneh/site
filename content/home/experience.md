@@ -9,12 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: curriculum vitaw
+title: curriculum vitae
 subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 2006
+date_format: Jan 2006
 
 # Experiences.
 
