@@ -89,7 +89,7 @@ policy.
 Before starting at the DED, I worked at the [Department of Political
 Science](https://www.uibk.ac.at/politikwissenschaft/index.html.en) at
 the University Innsbruck and at the [Centre for European Integration
-Research (EIF)](http://eif.univie.ac.at) at the University Vienna). I
+Research (EIF)](http://eif.univie.ac.at) at the University Vienna. I
 was trained as political scientist at the [Bremen Graduate School of
 Social Sciences (BIGSSS)](https://www.bigsss-bremen.de), where I
 graduated with a doctoral thesis on EU environmental politics under
