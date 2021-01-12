@@ -30,6 +30,7 @@ interests:
 - Judicial Politics
 
 # Education to show in About widget
+education:
   courses:
   - course: Doctorate (Dr. rer pol) in Political Science
     institution: Bremen International Graduate School of Social Sciences (BIGSSS)
