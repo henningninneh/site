@@ -15,8 +15,9 @@ role: Research Associate
 # Organizations/Affiliations to show in About widget
 organizations:
 organizations:
-- name: Danube University Krems, Department for European Policy and the Study of Democracy
-  url: "https://www.donau-uni.ac.at/en/university/faculties/business-globalization/departments/european-policy-study-of-democracy/"
+- name: Danube University Krems, Department for European Policy and
+  the Study of Democracy, Regioparl Project
+  url: "https://www.regioparl.com/"
 
 # Short bio (displayed in user profile at end of posts)
 # (left empty)
