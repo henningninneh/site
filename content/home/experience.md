@@ -27,7 +27,6 @@ experience:
     date_start: '2020-10-01'
     date_end: ''
     description: 'Research on Regional Parliaments in the European Union'
-  
   - title: 'Assistant Professor'
     company: 'Institute of Political Science'
     company_url: 'https://www.uibk.ac.at/politikwissenschaft/'
@@ -35,8 +34,6 @@ experience:
     date_start: '2019-10-01'
     date_end: '2019-11-01'
     description: 'Research and Teaching on European Policy and Politics'
-
-experience:
   - title: 'Assistant Professor'
     company: 'Centre for European Integration Research (EIF), Institute for Political Science'
     company_url: 'https://www.eif.univie.ac.at/'
@@ -44,16 +41,12 @@ experience:
     date_start: '2016-01-01'
     date_end: '2019-10-01'
     description: 'Research and Teaching on European Policy and Politics'
-
-experience:
   - title: 'Travelling Factotum'
     company: 'Various employers'
     location: 'Canada (Québec, mostly)'
     date_start: '2015-01-01'
     date_end: '2016-01-01'
     description: 'Rolling Maki, Selling Pants, Hiking the Rockies'
-
-experience:
   - title: 'Affiliated Fellow'
     company: 'Centre of European Law and Politics (ZERP)'
     company_url: 'https://www.zerp.uni-bremen.de/'
@@ -61,8 +54,6 @@ experience:
     date_start: '2014-01-01'
     date_end: '2015-01-01'
     description: 'Finalizing PhD thesis'
-
-experience:
   - title: 'Research Associate'
     company: 'Collaborative Research Centre 597 “Transformations of the State”'
     company_url: 'https://sfb597.uni-bremen.de/'
@@ -70,8 +61,6 @@ experience:
     date_start: '2008-01-01'
     date_end: '2014-01-01'
     description: 'Interdisciplinary Project on Trade Liberalisation and Social Regulation'
-
-experience:
   - title: 'Research Associate'
     company: 'Jacobs University Bremen'
     company_url: 'Jacobs University Bremen'
