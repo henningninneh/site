@@ -16,7 +16,7 @@ role: Research Associate
 organizations:
 - name: Danube University Krems, Department for European Policy and
   the Study of Democracy, Regioparl Project
-  url: "https://www.regioparl.com/"
+  url: https://www.regioparl.com/
 
 # Short bio (displayed in user profile at end of posts)
 # (left empty)
