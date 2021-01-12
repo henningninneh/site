@@ -75,29 +75,30 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
----
-I'm a research associate at the [Department for European Policy and the Study of Democracy](https://www.donau-uni.ac.at/en/university/faculties/business-globalization/departments/european-policy-study-of-democracy/) and [Regioparl](https://www.regioparl.com) at the Danube University Krems. My research deals mainly with issues of policy-making within the European system of multi-level governance, with a substantive focus on European judicial politics as well as climate and environment policy.
+--- 
 
-Before starting at the Department of Political Science, I worked at
-the [Centre for European Integration
-Research](http://eif.univie.ac.at) (EIF, Uni Vienna). I was trained as
-political scientist at the Bremen Graduate School of Social Sciences
-(BIGSSS), where I graduated with a doctoral thesis on EU environmental
-politics under the constraints of joint-decision making. The resulting
-book "The EU's Green Dynamism" was published with ECPR Press/Rowman &
-Littlefield.
+I'm a research associate at the [Department for European Policy
+and the Study of
+Democracy (DED)](https://www.donau-uni.ac.at/en/university/faculties/business-globalization/departments/european-policy-study-of-democracy/)
+and [Regioparl](https://www.regioparl.com) at the Danube University
+Krems. My research deals mainly with issues of policy-making within
+the European system of multi-level governance, with a substantive
+focus on European judicial politics as well as climate and environment
+policy.
+
+Before starting at the DED, I worked at the [Department of Political
+Science](https://www.uibk.ac.at/politikwissenschaft/index.html.en) at
+the University Innsbruck and at the [Centre for European Integration
+Research (EIF)](http://eif.univie.ac.at) at the University Vienna). I
+was trained as political scientist at the [Bremen Graduate School of
+Social Sciences (BIGSSS)](https://www.bigsss-bremen.de), where I
+graduated with a doctoral thesis on EU environmental politics under
+the constraints of joint-decision making. The resulting book ["The
+EU's Green Dynamism"](./publication/green-dynamism/) was published
+with ECPR Press/Rowman & Littlefield.
 
 I also rolled pretty good vegan
 [maki](http://www.sushimomo.ca/?lang=en) in Montréal.
 
-{{< icon name="download" pack="fas" >}}Download my full CV {{< staticref
-"media/CV.pdf" "newtab" >}}by clicking here{{< /staticref >}}..
-
-
-
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}{{< staticref
+"media/CV.pdf" "newtab" >}}Download a PDF file of my full CV{{< /staticref >}}.
