@@ -97,7 +97,7 @@ EU's Green Dynamism"](./publication/green-dynamism/) was published
 with ECPR Press/Rowman & Littlefield.
 
 I also rolled pretty good vegan
-[maki](http://www.sushimomo.ca/?lang=en) in Montréal.
+[maki](http://www.sushikomomo.ca/) in Montréal.
 
 {{< icon name="download" pack="fas" >}}{{< staticref
 "media/CV.pdf" "newtab" >}}Download a PDF file of my full CV{{< /staticref >}}.
