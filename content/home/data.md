@@ -7,6 +7,6 @@ headless: true
 weight: 40
 ---
 
-The data for my paper "European Environmental Policy at 50. Five
-Decades of Escaping Decision Traps?" is {{< icon name="download" pack="fas" >}}{{< staticref
+The data for my paper "[European Environmental Policy at 50. Five
+Decades of Escaping Decision Traps](publication/50-years/)?" is {{< icon name="download" pack="fas" >}}{{< staticref
 "media/50-years-data.zip" "newtab" >}}available for download here{{< /staticref >}}.
