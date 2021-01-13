@@ -3,9 +3,10 @@ title: Remapping the European Agenda‐Setting Landscape
 publication_types:
   - "2"
 authors:
-  - TEST
+  - Henning Deters
+  - Gerda Falkner
 doi: https://doi.org/10.1111/padm.12716
-publication: Public Administration
+publication: Public Administration (online first)
 abstract: In the European Union, agenda‐setting is formally centralized with the
   European Commission. During the last decade since the Lisbon Treaty, however,
   this agenda‐setting monopoly was challenged by other institutions against the
@@ -25,7 +26,11 @@ abstract: In the European Union, agenda‐setting is formally centralized with t
 draft: false
 featured: false
 tags:
-  - agen
+  - agenda-setting
+  - european union
+  - european council
+  - european commission
+  - european parliament
 image:
   filename: featured
   focal_point: Smart
