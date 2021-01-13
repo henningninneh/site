@@ -102,4 +102,4 @@ experience:
 
 ---
 
-Download my full CV and publication list in pdf format [here](files/cv.pdf).
+Download my full CV and publication list in pdf format [here](media/cv.pdf).
