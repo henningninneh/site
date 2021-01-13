@@ -24,7 +24,7 @@ experience:
     of Democracy'
     company_url: 'https://www.regioparl.com/'
     location: 'Danube University Krems'
-    date_start: '2020-00-00'
+    date_start: '2020-10-01'
     date_end: ''
     description: 'Research on Regional Parliaments in the European Union'
   - title: 'Assistant Professor'
