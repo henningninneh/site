@@ -102,4 +102,5 @@ experience:
 
 ---
 
-Download my full CV and publication list in pdf format [here](media/cv.pdf).
+{{< icon name="download" pack="fas" >}}Download my full CV and publication list in pdf format {{< staticref
+"media/cv.pdf" "newtab" >}}here{{< /staticref >}}.
