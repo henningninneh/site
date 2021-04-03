@@ -14,8 +14,7 @@ role: Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Centre for European Integration Research (EIF), Institute for
-  Political Science, University of Vienna
+- name: Centre for European Integration Research (EIF), Institute for Political Science, University of Vienna
   url: https://eif.univie.ac.at
 
 # Short bio (displayed in user profile at end of posts)
