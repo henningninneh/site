@@ -25,7 +25,7 @@ experience:
     location: 'University Vienna'
     date_start: '2021-04-01'
     date_end: ''
-    description: 'Research and Teaching on European Policy and Politics'
+    description: 'FWF-funded project *Trustees or Agents*'
   - title: 'Research Associate'
     company: 'Regioparl, Department for European Policy and the Study
     of Democracy'
