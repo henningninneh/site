@@ -88,7 +88,7 @@ funding by the Austrian National Science Fund, FWF.
 More generally, I am interested in issues related to policy-making
 within European multi-level governance. Next to judicial politics, my
 substantive focus has been mostly on climate and environmental
-policy. I am also affiliated with the
+policy and the single market. I am also affiliated with the
 [Regioparl](http://www.regioparl.com) Project that examines the role
 of regional parliaments in the EU.
 
@@ -97,7 +97,7 @@ Krems](https://www.donau-uni.ac.at/en/university/faculties/business-globalizatio
 the [University of
 Innsbruck](https://www.uibk.ac.at/politikwissenschaft/index.html.en),
 the [University of Bremen](https://www.uni-bremen.de/en/), and the
-Jacobs University Bremen(https://www.jacobs-university.de/), and I
+[Jacobs University Bremen](https://www.jacobs-university.de/). I
 graduated with a PhD in political science from the [Bremen Graduate
 School of Social Sciences (BIGSSS)](https://www.bigsss-bremen.de) on
 EU environmental politics under the constraints of joint-decision
