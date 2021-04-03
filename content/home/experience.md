@@ -25,7 +25,9 @@ experience:
     location: 'University Vienna'
     date_start: '2021-04-01'
     date_end: ''
-    description: 'FWF-funded project *Trustees or Agents*'
+    description: 'FWF-funded project *Trustees or Agents? The
+    Appointment and Ideological Orientations of the Judges at the
+    Court of Justice of the EU*'
   - title: 'Research Associate'
     company: 'Regioparl, Department for European Policy and the Study
     of Democracy'
