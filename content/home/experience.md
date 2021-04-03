@@ -19,13 +19,20 @@ date_format: '2006'
 # Experiences.
 
 experience:
+  - title: 'Assistant Professor'
+    company: 'Centre for European Integration Research (EIF), Institute for Political Science'
+    company_url: 'https://www.eif.univie.ac.at/'
+    location: 'University Vienna'
+    date_start: '2021-04-01'
+    date_end: ''
+    description: 'Research and Teaching on European Policy and Politics'
   - title: 'Research Associate'
     company: 'Regioparl, Department for European Policy and the Study
     of Democracy'
     company_url: 'https://www.regioparl.com/'
     location: 'Danube University Krems'
     date_start: '2020-10-01'
-    date_end: ''
+    date_end: '2021-03-31'
     description: 'Research on Regional Parliaments in the European Union'
   - title: 'Assistant Professor'
     company: 'Institute of Political Science'
