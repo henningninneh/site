@@ -20,7 +20,7 @@ date_format: '2006'
 
 experience:
   - title: 'Assistant Professor'
-    company: 'Centre for European Integration Research (EIF), Institute for Political Science'
+    company: 'Centre for European Integration Research (EIF), Department for Political Science'
     company_url: 'https://www.eif.univie.ac.at/'
     location: 'University Vienna'
     date_start: '2021-04-01'
@@ -44,7 +44,7 @@ experience:
     date_end: '2019-11-01'
     description: 'Research and Teaching on European Policy and Politics'
   - title: 'Assistant Professor'
-    company: 'Centre for European Integration Research (EIF), Institute for Political Science'
+    company: 'Centre for European Integration Research (EIF), Department for Political Science'
     company_url: 'https://www.eif.univie.ac.at/'
     location: 'University Vienna'
     date_start: '2016-01-01'
