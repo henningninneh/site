@@ -1,84 +1,47 @@
 ---
-# Display name
 title: Henning Deters
-
-# Username (this should match the folder name)
-authors:
-- admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
 role: Research Associate
-
-# Organizations/Affiliations to show in About widget
 organizations:
-- name: Centre for European Integration Research (EIF), Institute for Political Science, University of Vienna
-  url: https://eif.univie.ac.at
-
-# Short bio (displayed in user profile at end of posts)
-# (left empty)
-# bio: 
-
-# Interests to show in About widget
+  - name: Centre for European Integration Research (EIF), Institute for Political
+      Science, University of Vienna
+    url: https://eif.univie.ac.at
+superuser: true
+authors:
+  - admin
 interests:
-- European Integration
-- Judicial Politics
-- Environmental and Climate Policy
-- Single Market Policy
-
-
-# Education to show in About widget
+  - European Integration
+  - Judicial Politics
+  - Environmental and Climate Policy
+  - Single Market Policy
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:henning@deters.me
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.at/citations?user=POvl3HEAAAAJ
+  - icon: orcid
+    icon_pack: ai
+    link: http://orcid.org/0000-0002-8355-0061
+  - icon: linkedin
+    icon_pack: fab
+    link: https://at.linkedin.com/in/henning-deters-548669134
+  - icon: cv
+    icon_pack: ai
+    link: ./#experience
 education:
   courses:
-  - course: Doctorate (Dr. rer pol) in Political Science
-    institution: Bremen International Graduate School of Social Sciences (BIGSSS)
-    # year: 2012
-  - course: MA (Diplom) in Political Science
-    institution: University Bremen
-    # year: 2009
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:henning@deters.me"
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.at/citations?user=POvl3HEAAAAJ
-- icon: orcid
-  icon_pack: ai
-  link: http://orcid.org/0000-0002-8355-0061
-- icon: linkedin
-  icon_pack: fab
-  link: https://at.linkedin.com/in/henning-deters-548669134
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Hack: link to experience widget instead of above
-- icon: cv
-  icon_pack: ai
-  link: ./#experience
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
+    - course: Doctorate (Dr. rer pol) in Political Science
+      institution: Bremen International Graduate School of Social Sciences (BIGSSS)
+    - course: MA (Diplom) in Political Science
+      institution: University Bremen
 highlight_name: false
-
---- 
+email: ""
+---
+ 
 
 I'm a political scientist at the [Centre for European Integration
-Research](https://eif.univie.ac.at/) of the Institute for Political
+Research](https://eif.univie.ac.at/) of the Department for Political
 Science at the University of Vienna. At present, my research deals
 mainly with the judges at the Court of Justice of the European Union,
 more specifically with their appointment and judicial preferences. To
