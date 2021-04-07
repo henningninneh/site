@@ -38,4 +38,4 @@ image:
 summary: ""
 date: 2021-04-07T12:35:27.961Z
 ---
-(Preview and order)[https://www.routledge.com/Environmental-Policy-in-the-EU-Actors-Institutions-and-Processes/Jordan-Gravey/p/book/9781138392168]
+[Preview and order](https://www.routledge.com/Environmental-Policy-in-the-EU-Actors-Institutions-and-Processes/Jordan-Gravey/p/book/9781138392168)
