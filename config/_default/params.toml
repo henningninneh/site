@@ -117,7 +117,7 @@ contact_links = [
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
 # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
- {icon = "lock", icon_pack = "fas", name = "PGP (fingerprint: A30664F2B4F408C98D6E6AAA09332432F101422B)", link = "https://keys.openpgp.org/vks/v1/by-fingerprint/A30664F2B4F408C98D6E6AAA09332432F101422B"},
+ {icon = "lock", icon_pack = "fas", name = "PGP (fingerprint: a306 64f2 b4f4 08c9 8d6e 6aaa 0933 2432 f101 422b)", link = "https://keys.openpgp.org/vks/v1/by-fingerprint/A30664F2B4F408C98D6E6AAA09332432F101422B"},
   ]
 
 ############################
