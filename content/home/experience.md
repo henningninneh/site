@@ -19,8 +19,8 @@ date_format: '2006'
 # Experiences.
 
 experience:
-  - title: 'Assistant Professor'
-    company: 'Centre for European Integration Research (EIF), Department for Political Science'
+  - title: 'Senior Postdoc, FWF Project'
+    company: 'Centre for European Integration Research (EIF), Department of Political Science'
     company_url: 'https://www.eif.univie.ac.at/'
     location: 'University Vienna'
     date_start: '2021-04-01'
@@ -37,7 +37,7 @@ experience:
     date_end: '2021-03-31'
     description: 'Research on Regional Parliaments in the European Union'
   - title: 'Assistant Professor'
-    company: 'Institute of Political Science'
+    company: Department of Political Science'
     company_url: 'https://www.uibk.ac.at/politikwissenschaft/'
     location: 'University Innsbruck'
     date_start: '2019-10-01'

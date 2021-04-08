@@ -1,8 +1,8 @@
 ---
 title: Henning Deters
-role: Research Associate
+role: Senior Postdoctoral Researcher
 organizations:
-  - name: Centre for European Integration Research (EIF), Institute for Political
+  - name: Centre for European Integration Research (EIF), Department of Political
       Science, University of Vienna
     url: https://eif.univie.ac.at
 superuser: true
@@ -41,12 +41,12 @@ email: ""
  
 
 I'm a political scientist at the [Centre for European Integration
-Research](https://eif.univie.ac.at/) of the Department for Political
+Research](https://eif.univie.ac.at/) of the Department of Political
 Science at the University of Vienna. At present, my research deals
 mainly with the judges at the Court of Justice of the European Union,
 more specifically with their appointment and judicial preferences. To
 study this topic, I am setting up an expert survey based on generous
-funding by the Austrian National Science Fund, FWF.
+funding by the Austrian Science Fund, FWF.
 
 More generally, I am interested in issues related to policy-making
 within European multi-level governance. Next to judicial politics, my
