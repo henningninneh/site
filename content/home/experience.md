@@ -1,3 +1,4 @@
+
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -37,7 +38,7 @@ experience:
     date_end: '2021-03-31'
     description: 'Research on Regional Parliaments in the European Union'
   - title: 'Assistant Professor'
-    company: Department of Political Science'
+    company: 'Department of Political Science'
     company_url: 'https://www.uibk.ac.at/politikwissenschaft/'
     location: 'University Innsbruck'
     date_start: '2019-10-01'
