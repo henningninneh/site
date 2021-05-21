@@ -18,3 +18,4 @@ image:
   preview_only: false
 date: 2020-12-12T10:57:41.336Z
 ---
+Read online [here](https://www.donau-uni.ac.at/dam/jcr:0f436c7e-d360-4e06-a8df-828a19cbaf90/Nr_7%20-%20Der%20europaeische%20Green%20Deal.pdf).
