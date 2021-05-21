@@ -64,8 +64,8 @@ url_code: ""
 
 * Andrew Jordan, University of East Anglia
 
-[Book review](https://onlinelibrary.wiley.com/doi/10.1111/jcms.13191?af=R) by Francesca Pia Vantaggiato (2021) in *Journal of Common Market Studies* 59(2): 479-480.
-
 > The book stands out for clarity and coherence. It provides a detailed overview of the variety of pathways that policy-making can follow in the EU system. For that reason, it is an excellent reading for anyone who is interested in how the EU makes policy, whether environmental or otherwise.
+
+* [Book review](https://onlinelibrary.wiley.com/doi/10.1111/jcms.13191?af=R) by Francesca Pia Vantaggiato (2021) in *Journal of Common Market Studies* 59(2): 479-480.
 
 [Preview and Order](https://www.rowmaninternational.com/book/the_eus_green_dynamism/3-156-f980265e-4a8f-4a43-9e95-454af769f038)
