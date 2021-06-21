@@ -6,7 +6,8 @@ authors:
   - Henning Deters
   - Gerda Falkner
 doi: https://doi.org/10.1111/padm.12716
-publication: Public Administration (online first)
+publication: "Public Administration 99(2): 290-303."
+publication_short: ""
 abstract: In the European Union, agenda‐setting is formally centralized with the
   European Commission. During the last decade since the Lisbon Treaty, however,
   this agenda‐setting monopoly was challenged by other institutions against the
@@ -35,5 +36,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2020-12-28T10:57:24.790Z
+date: 2021-06-21T06:54:33.035Z
 ---
