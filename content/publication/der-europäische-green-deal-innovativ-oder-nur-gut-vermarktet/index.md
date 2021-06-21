@@ -4,7 +4,7 @@ publication_types:
   - "4"
 authors:
   - Henning Deters
-publication: DED Discussion Paper Series 7
+publication: "*DED Discussion Paper Series* 7"
 draft: false
 featured: false
 tags:
