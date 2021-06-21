@@ -6,8 +6,9 @@ publication_types:
 authors:
   - Henning Deters
 doi: 10.4324/9780429402333-14
-publication: "In Andrew Jordan and Viviane Gravey (Eds.) Environmental Policy in
-  the EU. Actors, Institutions and Processes. Fourth Edition. London: Routledge"
+publication: "In Andrew Jordan and Viviane Gravey (Eds.) *Environmental Policy
+  in the EU. Actors, Institutions and Processes* (168-202). Fourth Edition.
+  London: Routledge."
 abstract: |-
   
 
