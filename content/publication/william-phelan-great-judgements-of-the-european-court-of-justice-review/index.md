@@ -5,9 +5,12 @@ publication_types:
   - "2"
 authors:
   - Henning Deters
-publication: "Zeitschrift für Öffentliches Recht 76: 915-921"
+publication: "*Zeitschrift für Öffentliches Recht* 76: 915-921"
 draft: false
 featured: false
+tags:
+  - judicial politics
+  - european court of justice
 image:
   filename: featured
   focal_point: Smart
