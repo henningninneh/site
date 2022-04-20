@@ -26,6 +26,8 @@ abstract: During the first weeks of the Covid-19 pandemic, European Union (EU)
   leadership.
 draft: false
 featured: false
+tags:
+  - COVAX COVID-19 European Commission leadership procurement vaccines
 categories: []
 image:
   filename: featured
