@@ -23,6 +23,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: http://orcid.org/0000-0002-8355-0061
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/DetersHenning
   - icon: linkedin
     icon_pack: fab
     link: https://at.linkedin.com/in/henning-deters-548669134
