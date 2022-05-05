@@ -45,8 +45,9 @@ Research](https://eif.univie.ac.at/) of the Department of Political
 Science at the University of Vienna. At present, my research deals
 mainly with the judges at the Court of Justice of the European Union,
 more specifically with their appointment and judicial preferences. To
-study this topic, I am setting up an expert survey based on generous
-funding by the Austrian Science Fund, FWF.
+study this topic, I am using an expert survey and automated data
+extraction. My work is generously funded by the Austrian Science Fund,
+FWF.
 
 More generally, I am interested in issues related to policy-making
 within European multi-level governance. Next to judicial politics, my
@@ -54,6 +55,11 @@ substantive focus has been mostly on climate and environmental
 policy and the single market. I am also affiliated with the
 [Regioparl](http://www.regioparl.com) Project that examines the role
 of regional parliaments in the EU.
+
+I have taught various courses on the BA and MA levels. At present, I
+am teaching an [MA
+seminar](https://ufind.univie.ac.at/de/course.html?lv=210122&semester=2022S)
+on the Court of Justice of the EU in the European policy process.
 
 I have worked at the [Danube University
 Krems](https://www.donau-uni.ac.at/en/university/faculties/business-globalization/departments/european-policy-study-of-democracy.html),
