@@ -55,14 +55,9 @@ FWF.
 More generally, I am interested in issues related to policy-making
 within European multi-level governance. Next to judicial politics, my
 substantive focus has been mostly on climate and environmental
-policy and the single market. I am also affiliated with the
-[Regioparl](http://www.regioparl.com) Project that examines the role
-of regional parliaments in the EU.
+policy and the single market.
 
-I have taught various courses on the BA and MA levels. At present, I
-am teaching an [MA
-seminar](https://ufind.univie.ac.at/de/course.html?lv=210122&semester=2022S)
-on the Court of Justice of the EU in the European policy process.
+I have taught various courses on the BA and MA levels.
 
 I have worked at the [Danube University
 Krems](https://www.donau-uni.ac.at/en/university/faculties/business-globalization/departments/european-policy-study-of-democracy.html),
