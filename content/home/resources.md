@@ -11,9 +11,10 @@ weight: 40
 
 This {{< icon name="download" pack="fas" >}} {{< staticref
 "media/web-scraping-python.html" "newtab" >}}presentation{{<
-/staticref >}} is a "Crash Course on Web-Scraping with Python". I use the Eur-Lex,
-the EU's main legal database, as an example. The presentation follows
-a corresponding [Kaggle Notebook](https://www.kaggle.com/code/henningninneh/web-scraping-with-python-two-examples).
+/staticref >}} is a "Crash Course on Web-Scraping with Python". I use
+Eur-Lex, the EU's main legal database, as an example. The presentation
+follows a corresponding [Kaggle
+Notebook](https://www.kaggle.com/code/henningninneh/web-scraping-with-python-two-examples).
 
 ## Data 
 
