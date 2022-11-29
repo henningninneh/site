@@ -34,8 +34,8 @@
   weight = 30
 
 [[main]]
-  name = "data"
-  url = "#data"
+  name = "resources"
+  url = "#resources"
   weight = 40
 
 [[main]]
