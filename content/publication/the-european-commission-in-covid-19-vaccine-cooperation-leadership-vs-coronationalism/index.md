@@ -1,6 +1,5 @@
 ---
-title: "The European Commission in Covid-19 Vaccine Cooperation: Leadership vs
-  Coronationalism?"
+title: "The European Commission in Covid-19 Vaccine Cooperation: Leadership vs Coronationalism?"
 publication_types:
   - "2"
 authors:
