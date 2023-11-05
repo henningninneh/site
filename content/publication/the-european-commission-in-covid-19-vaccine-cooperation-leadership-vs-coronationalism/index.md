@@ -7,7 +7,7 @@ authors:
   - Henning Deters
   - Federica Zardo
 doi: 10.1080/13501763.2022.2064900
-publication: Journal of European Public Policy (online first)
+publication: *Journal of European Public Policy* 30(6):~1051-1071.
 abstract: During the first weeks of the Covid-19 pandemic, European Union (EU)
   member states competed over scarce countermeasures. Regarding vaccines, a few
   member states launched exclusive joint endeavours, yet eventually, the EU
@@ -27,11 +27,15 @@ abstract: During the first weeks of the Covid-19 pandemic, European Union (EU)
 draft: false
 featured: false
 tags:
-  - COVAX COVID-19 European Commission leadership procurement vaccines
+  - COVAX
+  - COVID-19
+  - European Commission
+  - leadership
+  - procurement vaccines
 categories: []
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-04-20T18:29:43.828Z
+date: 2023-01-20T18:29:43.828Z
 ---
