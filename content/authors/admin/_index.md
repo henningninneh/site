@@ -26,9 +26,9 @@ social:
   - icon: mastodon
     icon_pack: fab
     link: https://eupolicy.social/@DetersHenning
-  - icon: linkedin
-    icon_pack: fab
-    link: https://at.linkedin.com/in/henning-deters-548669134
+#  - icon: linkedin
+#    icon_pack: fab
+#    link: https://at.linkedin.com/in/henning-deters-548669134
   - icon: cv
     icon_pack: ai
     link: ./#experience
