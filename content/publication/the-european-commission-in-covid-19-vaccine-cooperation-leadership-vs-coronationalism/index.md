@@ -6,7 +6,7 @@ authors:
   - "Henning Deters"
   - "Federica Zardo"
 doi: 10.1080/13501763.2022.2064900
-publication: "*Journal of European Public Policy* 30(6):~1051-1071."
+publication: "*Journal of European Public Policy* 30(6): 1051-1071"
 abstract: During the first weeks of the Covid-19 pandemic, European Union (EU)
   member states competed over scarce countermeasures. Regarding vaccines, a few
   member states launched exclusive joint endeavours, yet eventually, the EU
