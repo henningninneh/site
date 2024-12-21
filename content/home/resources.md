@@ -22,3 +22,4 @@ The data for my paper "[European Environmental Policy at 50. Five
 Decades of Escaping Decision Traps](publication/50-years/)?" is {{< icon name="download" pack="fas" >}}{{< staticref
 "media/50-years-data.zip" "newtab" >}}available for download here{{< /staticref >}}.
 
+The EU's Official Staff Directories from 1994 until 2024 are {< icon name="download" pack="fas" >}}[mirrored here as a single zip archive](https://cloud.lo.co.at/index.php/s/wKPinD5rLbPLQqr) for easier access.
