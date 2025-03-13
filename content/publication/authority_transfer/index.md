@@ -1,5 +1,5 @@
 ---
-title: "Henning Deters, Jonas Bornemann"
+title: "Authority Transfer and Politicised Member State Litigation before the Court of Justice of the EU"
 authors:
 - Henning Deters
 - Jonas Bornemann
