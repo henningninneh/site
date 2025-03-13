@@ -21,6 +21,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-  date: 2023-01-20T18:29:43.828Z
-url_pdf: "http://henning.deters.me/static/media/Shaping_EU_policy.pdf
+  date: 2024-02-20T18:29:43.828Z
+url_pdf: "http://henning.deters.me/static/media/Shaping_EU_policy.pdf"
 ---
