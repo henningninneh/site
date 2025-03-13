@@ -26,5 +26,5 @@ tags:
 links:
 - name: OSF
   url: https://osf.io/preprints/osf/qj3ua_v1
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: http://henning.deters.me/media/preprint_deters_bornemann.pdf
 
