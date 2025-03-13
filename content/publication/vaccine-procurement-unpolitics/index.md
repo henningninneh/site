@@ -1,5 +1,5 @@
 ---
-title: "Shaping EU policy in regional parliaments: a configurational analysis of the Posted Workers Directive in Germany"
+title: "The Changing Unpolitics of Covid‐19 Vaccine Procurement"
 publication_types:
   - "2"
 authors:
@@ -22,6 +22,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-  date: 2024-01-20T18:29:43.828Z
+  date: 2024-01-20
 url_pdf: "http://henning.deters.me/static/media/Unpolitics_Vaccine_Procurement.pdf"
 ---
