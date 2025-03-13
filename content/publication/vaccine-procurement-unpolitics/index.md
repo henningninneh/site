@@ -22,6 +22,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-  date: 2024-01-20
+  date: 2024-01-20T14:53:14+02:00
 url_pdf: "http://henning.deters.me/static/media/Unpolitics_Vaccine_Procurement.pdf"
 ---
