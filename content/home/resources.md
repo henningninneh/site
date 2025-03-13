@@ -23,3 +23,12 @@ Decades of Escaping Decision Traps](publication/50-years/)?" is {{< icon name="d
 "media/50-years-data.zip" "newtab" >}}available for download here{{< /staticref >}}.
 
 The EU's Official Staff Directories from 1994 until 2024 are {{< icon name="download" pack="fas" >}}[mirrored here as a single zip archive](https://lo.co.at/eu_od.zip) for easier access.
+
+All votes cast by the EU Member States in the Council of the EU
+(Council of Ministers) between December 2009 and March 11 2025
+available {{< icon name="download" pack="fas" >}}[for download on the
+OSF](https://osf.io/4vn3x/).
+
+Replication data for "[Shaping EU policy in regional parliaments](publication/german-state-parliaments/)?" is
+available {{< icon name="download" pack="fas" >}}[for download on the
+OSF](https://osf.io/sw9nk/).
