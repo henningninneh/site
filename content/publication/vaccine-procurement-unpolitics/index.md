@@ -19,5 +19,5 @@ tags:
   - unpolitics
   - vaccine‐acquisition
 categories: []
-url_pdf: "http://henning.deters.me/static/media/Unpolitics_Vaccine_Procurement.pdf"
+url_pdf: "http://henning.deters.me/media/Unpolitics_Vaccine_Procurement.pdf"
 ---

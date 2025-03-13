@@ -18,5 +18,5 @@ tags:
   - parliaments
   - QCA
 categories: []
-url_pdf: "http://henning.deters.me/static/media/Shaping_EU_policy.pdf"
+url_pdf: "http://henning.deters.me/media/Shaping_EU_policy.pdf"
 ---
