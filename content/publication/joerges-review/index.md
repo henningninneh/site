@@ -6,7 +6,7 @@ publication_types:
   - "2"
 authors:
   - Henning Deters
-publication: "*Politische Vierteljahresschrift* 65(1) (accepted for publication)"
+publication: "*Politische Vierteljahresschrift* 65(1), 197--200"
 draft: false
 featured: false
 doi: 10.1007/s11615-023-00475-1
