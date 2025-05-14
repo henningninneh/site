@@ -20,12 +20,16 @@ date_format: '2006'
 # Experiences.
 
 experience:
-  - title: 'Senior Postdoc, FWF Project'
+  - title: 'Freelance Political Analyst'
+    date_start: '2021-04-01'
+    date_end: ''
+    description: 'Currently teaching at the Central European University'
+  - title: Principal Investigator, FWF Project'
     company: 'Centre for European Integration Research (EIF), Department of Political Science'
     company_url: 'https://www.eif.univie.ac.at/'
     location: 'University Vienna'
     date_start: '2021-04-01'
-    date_end: ''
+    date_end: '2025-04-01'
     description: 'FWF-funded project *Trustees or Agents? The
     Appointment and Ideological Orientations of the Judges at the
     Court of Justice of the EU*'
