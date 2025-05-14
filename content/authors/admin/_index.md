@@ -1,10 +1,10 @@
 ---
 title: Henning Deters
-role: Senior Postdoctoral Researcher
-organizations:
-  - name: Centre for European Integration Research (EIF), Department of Political
-      Science, University of Vienna
-    url: https://eif.univie.ac.at
+role: Political Scientist
+# organizations:
+#  - name: Centre for European Integration Research (EIF), Department of Political
+#      Science, University of Vienna
+#    url: https://eif.univie.ac.at
 superuser: true
 authors:
   - admin
@@ -42,24 +42,16 @@ highlight_name: false
 email: ""
 ---
  
+I'm a political scientist and freelance policy and data analyst,
+currently also teaching classes at the Central European University
+(Vienna). As a researcher, my main interests relate to the European
+Union, specifically its judicial and environmental politics. I work
+with whatever methods are most promising for any given puzzle,
+including qualitative (QCA, process-tracing) and quantitative
+(surveys, regression analysis) approaches.
 
-I'm a political scientist at the [Centre for European Integration
-Research](https://eif.univie.ac.at/) of the Department of Political
-Science at the University of Vienna. At present, my research deals
-mainly with the judges at the Court of Justice of the European Union,
-more specifically with their appointment and judicial preferences. To
-study this topic, I am using an expert survey and automated data
-extraction. My work is generously funded by the Austrian Science Fund,
-FWF.
-
-More generally, I am interested in issues related to policy-making
-within European multi-level governance. Next to judicial politics, my
-substantive focus has been mostly on climate and environmental
-policy and the single market.
-
-I have taught various courses on the BA and MA levels.
-
-I have worked at the [Danube University
+I have worked at the University of Vienna's [Centre for European
+Integration Research](https://eif.univie.ac.at), the [Danube University
 Krems](https://www.donau-uni.ac.at/en/university/faculties/business-globalization/departments/european-policy-study-of-democracy.html),
 the [University of
 Innsbruck](https://www.uibk.ac.at/politikwissenschaft/index.html.en),
