@@ -11,8 +11,9 @@ authors:
 interests:
   - European Integration
   - Judicial Politics
-  - Environmental and Climate Policy
+  - Environment/Climate Policy
   - Single Market Policy
+  - Computational Analysis
 social:
   - icon: envelope
     icon_pack: fas
@@ -48,7 +49,9 @@ currently also teaching classes at the [Central European University](https://www
 Union, specifically its judicial and environmental politics. I work
 with whatever methods are most promising for any given puzzle,
 including qualitative (QCA, process-tracing) and quantitative
-(surveys, regression analysis) approaches.
+(surveys, regression analysis) approaches, although I have a penchant
+for computational analysis. When not working, I can be spotted
+outdoors, hiking, running, watching birds, or spending time with my kid.
 
 I have worked at the University of Vienna's [Centre for European
 Integration Research](https://eif.univie.ac.at), the [Danube University
