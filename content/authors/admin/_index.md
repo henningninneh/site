@@ -43,7 +43,7 @@ email: ""
 ---
  
 I'm a political scientist and freelance policy and data analyst,
-currently also teaching classes at the Central European University
+currently also teaching classes at the [Central European University](https://www.ceu.edu/vienna)
 (Vienna). As a researcher, my main interests relate to the European
 Union, specifically its judicial and environmental politics. I work
 with whatever methods are most promising for any given puzzle,
