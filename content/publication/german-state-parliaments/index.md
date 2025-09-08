@@ -1,5 +1,5 @@
 ---
-title: "Shaping EU policy in regional parliaments: a configurational analysis of the Posted Workers Directive in Germany"
+Title: "Shaping EU Policy in Regional Parliaments: A Configurational Analysis of the Posted Workers Directive in Germany"
 publication_types:
   - "2"
 authors:
