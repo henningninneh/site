@@ -4,7 +4,7 @@ authors:
 - Henning Deters
 - Jonas Bornemann
 date: "2024-12-06T00:00:00Z"
-doi: "doi.org/10.31219/osf.io/qj3ua_v1"
+doi: 0.31219/osf.io/qj3ua_v1
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
