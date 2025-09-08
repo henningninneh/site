@@ -1,5 +1,5 @@
 ---
-title: "Authority transfer and governmental legal contestation before the court of justice of the EU"
+Title: "Authority Transfer and Governmental Legal Contestation Before the Court of Justice of the EU"
 publication_types:
   - "2"
 authors:
