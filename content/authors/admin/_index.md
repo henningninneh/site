@@ -44,8 +44,9 @@ email: ""
 ---
  
 I'm a political scientist and freelance policy and data analyst,
-currently also teaching at the [University of
-Vienna](https://univie.ac.at). As a researcher, my main interests
+currently teaching at the [University of
+Vienna](https://univie.ac.at) and the [Leuphana University](https://www.leuphana.de/) 
+Lüneburg. As a researcher, my main interests
 relate to the European Union, specifically its judicial and
 environmental politics. I work with whatever methods are most
 promising for any given puzzle, including qualitative (QCA,
@@ -54,7 +55,7 @@ although I have a penchant for computational approaches. When not
 working, I can be spotted outdoors, hiking, running, watching birds,
 or spending time with my kid.
 
-I have worked at the [Central European
+I have also worked at the [Central European
 University](https://www.ceu.edu/vienna) (CEU), at the University of
 Vienna's [Centre for European Integration
 Research](https://eif.univie.ac.at), the [Danube University

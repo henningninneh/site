@@ -20,10 +20,11 @@ date_format: '2006'
 # Experiences.
 
 experience:
-  - title: 'Freelance Political Analyst'
-    date_start: '2021-04-01'
-    date_end: ''
-    description: 'Currently teaching at the Central European University'
+  - title: 'University Lecturer'
+    company: 'University Vienna, Leuphana University'
+    company_url: 'https://www.leuphana.de/'
+    location: 'Vienna, Austria and Lüneburg, Germany'
+    date_start: '2025-04-01'
   - title: Principal Investigator, FWF Project'
     company: 'Centre for European Integration Research (EIF), Department of Political Science'
     company_url: 'https://www.eif.univie.ac.at/'
