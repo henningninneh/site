@@ -1,6 +1,6 @@
 ---
 title: "The Single Market and Environmental Policy: Catalysts and Constraints"
-date: 2026-05-20T14:53:14+02:00
+date: 2026-05-05T14:53:14+02:00
 draft: false
 featured: false
 # doi:
@@ -21,9 +21,7 @@ publication_types:
   - "6"
 
 # Publication name and optional abbreviated version.
-publication: "In Anthony R. Zito and Ekaterina Domorenok (Eds.) *De
-Gruyter Handbook on European Union Environmental Policy*. Berlin: De
-Gruyter, 463--476"
+publication: "In Anthony R. Zito and Ekaterina Domorenok (Eds.) *De Gruyter Handbook on European Union Environmental Policy*. Berlin: De Gruyter, 463--476"
 
 tags:
   - regional policy
